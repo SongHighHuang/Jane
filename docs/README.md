@@ -1,7 +1,7 @@
 # 泽菲瑞亚的少女与影伴
 
 <div style="display: flex; align-items: flex-start;">
-<img src="./_media/Jane.png" style="width: 100px; margin-right: 5px;" />
+<img src="https://gw.alicdn.com/imgextra/i3/O1CN01TGquEj1w83Bv3JDpu_!!6000000006262-2-tps-896-1280.png" style="width: 100px; margin-right: 5px;" />
 <p style="margin-top: 0;">在一个遥远而奇幻的国度，生活着一个勇敢美丽的女孩，名叫Jane。她曾游历四方，见识了无数令人惊叹的景象和奇妙的生物，然而最终，她选择回到自己温柔的小镇，过起了宁静的生活。</p>
 </div>
 
@@ -233,13 +233,12 @@
 ## 配图
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
-    <img src="./_media/small_town.png" alt="small_town" style="width: 30%; height: auto;">
-    <img src="./_media/caffe.png" alt="caffe" style="width: 30%; height: auto;">
-    <img src="./_media/chat.png" alt="chat" style="width: 30%; height: auto;">
-    <img src="./_media/chat1.png" alt="chat" style="width: 30%; height: auto;">
-    <img src="./_media/hug.png" alt="hug" style="width: 30%; height: auto;">
-    <img src="./_media/Sunset.png" alt="Sunset" style="width: 30%; height: auto;">
-    <img src="./_media/walk.png" alt="walk" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i3/O1CN01HSoxYa20LZLPj5GqZ_!!6000000006833-2-tps-896-1280.png" alt="Sunset" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i4/O1CN01lTU3oD1zErvzpJosV_!!6000000006683-2-tps-896-1280.png" alt="small_town" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i2/O1CN01VGYzTL1XuGUUSzbX9_!!6000000002983-2-tps-896-1280.png" alt="caffe" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i2/O1CN01hBaZaN1G8JYafcu3s_!!6000000000577-2-tps-896-1280.png" alt="chat" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i1/O1CN018H3g2p1TncHKMVUrN_!!6000000002427-2-tps-896-1280.png" alt="chat" style="width: 30%; height: auto;">
+    <img src="https://gw.alicdn.com/imgextra/i3/O1CN01VAKmhv25qK19WjNcU_!!6000000007577-2-tps-896-1280.png" alt="hug" style="width: 30%; height: auto;">
 </div>
 
 
